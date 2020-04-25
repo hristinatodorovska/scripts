@@ -1,0 +1,361 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Johnson St & Studley Park Rd",
+    "description": "Avoid as mostly not bike friendly but may be your only option for some east-west trips",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.975028,
+      -37.798018
+     ],
+     [
+      145.000005,
+      -37.800578
+     ],
+     [
+      145.003567,
+      -37.800883
+     ],
+     [
+      145.005112,
+      -37.800798
+     ],
+     [
+      145.012021,
+      -37.803935
+     ],
+     [
+      145.018308,
+      -37.80658
+     ],
+     [
+      145.020282,
+      -37.806766
+     ],
+     [
+      145.022514,
+      -37.806732
+     ],
+     [
+      145.028651,
+      -37.80741
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Smith St",
+    "description": null,
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.994018,
+      -37.757059
+     ],
+     [
+      145.000606,
+      -37.757772
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Church St & Chapel St",
+    "description": "Avoid where possible as is busy shopping street with high dooring risk. Can be only option for some north-south travel",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      145.000927,
+      -37.808733
+     ],
+     [
+      144.999651,
+      -37.815921
+     ],
+     [
+      144.997934,
+      -37.825667
+     ],
+     [
+      144.996765,
+      -37.832124
+     ],
+     [
+      144.99655,
+      -37.834827
+     ],
+     [
+      144.995617,
+      -37.839521
+     ],
+     [
+      144.994158,
+      -37.84685
+     ],
+     [
+      144.993364,
+      -37.851832
+     ],
+     [
+      144.992302,
+      -37.857439
+     ],
+     [
+      144.990327,
+      -37.868374
+     ],
+     [
+      144.989673,
+      -37.871779
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Sydney Rd",
+    "description": "Major dooring risk outside of clearway times so ride at least 1m from doors and carefully",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.960437,
+      -37.776973
+     ],
+     [
+      144.963162,
+      -37.760842
+     ],
+     [
+      144.966552,
+      -37.741365
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Elizabeth St",
+    "description": "Tram super stops mean this busy street is now often inefficient for bikes (no filtering). Need to be very aware",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.957347,
+      -37.801612
+     ],
+     [
+      144.964932,
+      -37.818107
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Collins St",
+    "description": "High dooring risk in some sections. But is often only practical east-west route through city",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.973784,
+      -37.813327
+     ],
+     [
+      144.954525,
+      -37.818963
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Clarendon St",
+    "description": null,
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.957143,
+      -37.825523
+     ],
+     [
+      144.958173,
+      -37.827786
+     ],
+     [
+      144.959364,
+      -37.830387
+     ],
+     [
+      144.961145,
+      -37.834268
+     ],
+     [
+      144.963419,
+      -37.839123
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Smith St",
+    "description": "High dooring risk",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.9850917,
+      -37.7942537
+     ],
+     [
+      144.9826241,
+      -37.8085634
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Spencer St",
+    "description": "Is often only practical north-south route here but is busy, no continuous bike lane and has dooring risk",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.956188,
+      -37.82348
+     ],
+     [
+      144.95151,
+      -37.813344
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Lonsdale Connector",
+    "description": null,
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.972764,
+      -37.809242
+     ],
+     [
+      144.972163,
+      -37.809352
+     ],
+     [
+      144.969706,
+      -37.810081
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Hopetoun Bridge",
+    "description": "Avoid. Bikes use footpath but its narrow and there are many fast-moving trucks close by.",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.914807,
+      -37.801502
+     ],
+     [
+      144.912275,
+      -37.801146
+     ],
+     [
+      144.911224,
+      -37.801019
+     ],
+     [
+      144.909561,
+      -37.800892
+     ],
+     [
+      144.906353,
+      -37.800553
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Blackshaws Rd to Clelland Rd (Kororoit link)",
+    "description": "- Only direct connecting link for Kororoit Trail. Need to use footpath and either busy road or dirt shoulder",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.829212,
+      -37.823014
+     ],
+     [
+      144.829684,
+      -37.823082
+     ],
+     [
+      144.829159,
+      -37.827506
+     ],
+     [
+      144.831594,
+      -37.828684
+     ]
+    ]
+   }
+  }
+ ]
+}

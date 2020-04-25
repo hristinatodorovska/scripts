@@ -1,0 +1,280 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "High St",
+    "description": "Activity street which is can be ridden with caution when necessary but alternatives are better where feasible",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.996722,
+      -37.780857
+     ],
+     [
+      144.997494,
+      -37.776549
+     ],
+     [
+      144.998954,
+      -37.769314
+     ],
+     [
+      145.000069,
+      -37.761694
+     ],
+     [
+      145.0017,
+      -37.752309
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Gertrude St & Langridge St",
+    "description": "Narrow bike lane with tram tracks alongside. Use caution",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.973784,
+      -37.805427
+     ],
+     [
+      144.983118,
+      -37.806376
+     ],
+     [
+      144.986165,
+      -37.80658
+     ],
+     [
+      144.9964,
+      -37.807631
+     ],
+     [
+      144.996507,
+      -37.807224
+     ],
+     [
+      144.998739,
+      -37.807444
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "St Kilda Rd & Nepean Hwy",
+    "description": null,
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.967454,
+      -37.817599
+     ],
+     [
+      144.968773,
+      -37.820277
+     ],
+     [
+      144.970114,
+      -37.823141
+     ],
+     [
+      144.971026,
+      -37.825184
+     ],
+     [
+      144.971488,
+      -37.827099
+     ],
+     [
+      144.971305,
+      -37.83037
+     ],
+     [
+      144.971595,
+      -37.831955
+     ],
+     [
+      144.972646,
+      -37.832955
+     ],
+     [
+      144.974556,
+      -37.834565
+     ],
+     [
+      144.97564,
+      -37.83631
+     ],
+     [
+      144.97741,
+      -37.841385
+     ],
+     [
+      144.979684,
+      -37.847757
+     ],
+     [
+      144.982259,
+      -37.85428
+     ],
+     [
+      144.982646,
+      -37.854974
+     ],
+     [
+      144.983354,
+      -37.85544
+     ],
+     [
+      144.983171,
+      -37.856474
+     ],
+     [
+      144.983396,
+      -37.857329
+     ],
+     [
+      144.984469,
+      -37.860523
+     ],
+     [
+      144.986604,
+      -37.866799
+     ],
+     [
+      144.98695,
+      -37.867701
+     ],
+     [
+      144.987274,
+      -37.868355
+     ],
+     [
+      144.997022,
+      -37.883754
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Flemington Rd",
+    "description": "Often is the only practical bike route here but has narrow bike lanes with some dooring risk",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.956703,
+      -37.800968
+     ],
+     [
+      144.94267,
+      -37.78954
+     ],
+     [
+      144.941114,
+      -37.788336
+     ],
+     [
+      144.940535,
+      -37.787618
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Exhibition St",
+    "description": "Peak hour bike lanes exist apart from between Little Bourke St to Little Collins St",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.968666,
+      -37.808165
+     ],
+     [
+      144.972324,
+      -37.815785
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Sages Rd to Metropolitan Ring Rd via Hume Hwy",
+    "description": "- During non-clearway hours the left lane of Hume Hwy has space next to parked cars<br>- During clearway hours use footpath",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.958613,
+      -37.700278
+     ],
+     [
+      144.958779,
+      -37.700278
+     ],
+     [
+      144.958806,
+      -37.700388
+     ],
+     [
+      144.959847,
+      -37.70024
+     ],
+     [
+      144.958522,
+      -37.692255
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Name": "Grattan St",
+    "description": "- Mostly wide enough to be safe but no lengthy bike lanes so other routes preferable<br>- Safe shared path outside Uni of Melb",
+    "tessellate": 1
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      144.95533,
+      -37.799484
+     ],
+     [
+      144.969825,
+      -37.801044
+     ]
+    ]
+   }
+  }
+ ]
+}
