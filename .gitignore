@@ -1,3 +1,6 @@
 # ignore folders
 vic_road
 vic_suburb_boundary
+import_data
+export_data
+.idea

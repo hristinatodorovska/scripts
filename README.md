@@ -7,6 +7,7 @@
 pandas
 fiona
 geopandas
+gpxpy
 ```
 ### 1. Cleaning Accident data and converting into geojson
 ```
@@ -38,5 +39,16 @@ exported data saved into:
 export_data\red_trail.json - GEOJSON
 export_data\orang_trail.json - GEOJSON
 export_data\other_trail.json - GEOJSON
+
+```
+
+### 3. Intermediate Off Road Trails
+```
+off_road_intermediate.py
+```
+exported data saved into:
+```
+export_data\intermediate.json - GEOJSON
+
 
 ```
