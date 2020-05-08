@@ -42,7 +42,16 @@ export_data\other_trail.json - GEOJSON
 
 ```
 
-### 3. Intermediate Off Road Trails
+### 4. Beginner Off Road Trails
+```
+off_road_beginner.py
+```
+exported data saved into:
+```
+export_data\beginner.json - GEOJSON
+
+```
+### 5. Intermediate Off Road Trails
 ```
 off_road_intermediate.py
 ```
@@ -50,5 +59,13 @@ exported data saved into:
 ```
 export_data\intermediate.json - GEOJSON
 
+```
+### 6. Intermediate Off Road Trails
+```
+off_road_advanced.py
+```
+exported data saved into:
+```
+export_data\advanced.json - GEOJSON
 
 ```

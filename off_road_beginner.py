@@ -6,7 +6,7 @@ import sys
 
 
 # use your path
-path = r'./import_data/blue/'
+path = r'./import_data/green/'
 all_files = glob.glob(path + "/*.gpx")
 
 
@@ -43,11 +43,10 @@ def gpx_to_geojson(files):
 
 
 sys.stdout.write("Start formatting data \n")
-offRoadIntermediate = gpx_to_geojson(all_files)
+offRoadBeginner = gpx_to_geojson(all_files)
 
-out_file = open("./export_data/Trails.json", "w")
-intermediate = open("./export_data/intermediate.json", "w")
-json.dump(offRoadIntermediate, intermediate, indent=1)
-intermediate.close()
-sys.stdout.write("Save intermediate trails\n")
+beginner = open("/content/drive/My Drive/Sportegy/Analysis/Iteration2/BikeTrials/beginner.json", "w")
+json.dump(offRoadBeginner, beginner, indent=1)
+beginner.close()
+sys.stdout.write("Save beginner trails\n")
 
